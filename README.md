@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Eduardo Fagundes Fontele
 
-<!--
-**Eduardofagundesfontele/Eduardofagundesfontele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software | 💻 Desenvolvedor java em formação  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🚀 Sobre mim
+
+Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir.  
+Atualmente estou estudando:
+
+- 🔷 **JavaScript** 
+- 🌐 **Desenvolvimento Web Front-end** com foco em **Acessibilidade Web**
+- 🎯 **Angular** e**Java** para desenvolvimento full stack
+- 🧠 **Lógica de Programação** de forma aprofundada
+
+
+---
+
+## 📫 Contato
+
+- ✉️ E-mail: eduardofagundesfontele3@gmail.com
+
+---
+
+⭐ Obrigado por visitar meu perfil!
+
+
+
 -->
