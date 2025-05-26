@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir.  
+Estou aprendendo sobre tecnologia e sempre buscando evoluir
 Atualmente estou estudando:
 
 - 🔷 **JavaScript** 
